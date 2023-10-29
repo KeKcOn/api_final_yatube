@@ -15,10 +15,10 @@
 2. Создать и активировать виртуальное окружение:
 
     ```bash
-    python3 -m venv env
+    python3 -m venv venv
     ```
     ```bash
-    source env/bin/activate
+    . venv/bin/activate
     ```
 3. Установить зависимости из файла requirements.txt:
 
